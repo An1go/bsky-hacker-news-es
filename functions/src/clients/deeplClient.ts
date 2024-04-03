@@ -13,7 +13,7 @@ export class DeepLClient {
       auth_key: this.apiKey,
       text: text,
       source_lang: "EN",
-      target_lang: "JA",
+      target_lang: "ES",
     });
 
     try {
